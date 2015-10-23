@@ -1,7 +1,7 @@
 name: Alex Merced - The Latino Libertarian
 favicon: null
-layout_spectrum: 0.4656622405163944
-typography_spectrum: 0.06139793712645769
+layout_spectrum: 1
+typography_spectrum: 0.28062
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#99722b'
   brandStrength: 0.5
   lightness: 0.013348035048693419
-  saturation: 0.840009602252394
+  saturation: 1
   rhythmicContrast: 0.08857432473450899
 purpose: []
