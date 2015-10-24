@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Alex Merced - The Latino Libertarian]]></title>
         <description><![CDATA[Alex Merced - The Latino Libertarian]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alex-merced-the-latino-libertarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 03:22:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 24 Oct 2015 02:31:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alex-merced-the-latino-libertarian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[My First Post]]></title>
-            <description><![CDATA[<article><h1>My First Post</h1><p>MY First Post</p></article>]]></description>
-            <link>undefinedmy-first-post/index.html</link>
+            <title><![CDATA[Libertarian 101]]></title>
+            <description><![CDATA[<article><h1>Libertarian 101</h1><p>All the info you need to be a compelling libertarian!</p></article>]]></description>
+            <link>https://thegrid.ai/alex-merced-the-latino-libertarian/my-first-post/index.html</link>
             <guid isPermaLink="false">180f41a0-74ec-4715-8e68-62758871b76e</guid>
-            <pubDate>Fri, 23 Oct 2015 03:22:38 GMT</pubDate>
+            <pubDate>Sat, 24 Oct 2015 02:31:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
